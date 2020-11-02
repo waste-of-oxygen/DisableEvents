@@ -1,0 +1,13 @@
+# DisableEvents
+# Developer: wasteofoxygen (GitHub: https://github.com/waste-of-oxygen)
+
+leaf-decay:
+  enabled: true
+water-flow:
+  enabled: true
+lava-flow:
+  enabled: true
+falling-blocks:
+  enabled: true
+redstone-update:
+  enabled: true

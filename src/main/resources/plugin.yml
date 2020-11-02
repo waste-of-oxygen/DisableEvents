@@ -1,0 +1,9 @@
+name: ${project.name}
+main: dev.wasteofoxygen.disableevents.DisableEvents
+version: ${project.version}
+author: wasteofoxygen
+description: ${project.description}
+
+commands:
+  disableevent:
+    description: "Disable a minecraft event"
